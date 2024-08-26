@@ -1,0 +1,13 @@
+.manrope{
+    font-family: "Manrope", sans-serif;
+}
+.hope{
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 87px;
+    font-family: Manrope;
+}
+.moping{
+    display: grid;
+   grid-template-rows:1fr, 2fr, 1f ;
+}
